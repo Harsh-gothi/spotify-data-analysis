@@ -78,3 +78,6 @@ This dashboard is perfect for music enthusiasts who want to:
 
 ## 🛠 Tech Stack
 - **Microsoft Excel** — for data processing, chart creation, and dashboard design.
+
+## Screenshots
+![Spotify Dashboard](assets/image.png)
